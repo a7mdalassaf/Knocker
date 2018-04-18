@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 from scapy.all import *
 from itertools import permutations
-from time import sleep
 import socket
 
 
